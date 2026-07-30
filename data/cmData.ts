@@ -5,7 +5,7 @@ const cmData: CountryData[] = [
   {
     name: "Darix SAMANI SIEWE",
     link: "https://darixsamani.github.io/",
-    tags: ["FrontEnd", "BackEnd", "Mbile"],
+    tags: ["FrontEnd", "BackEnd", "Mobile"],
     socials: {
       twitter: "darixsamani1",
       github: "darixsamani",
